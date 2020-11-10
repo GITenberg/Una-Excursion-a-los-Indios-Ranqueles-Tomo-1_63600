@@ -1,0 +1,31 @@
+_repo: Una-Excursion-a-los-Indios-Ranqueles-Tomo-1_63600
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mansilla, Lucio V.
+    aliases:
+    - Mansilla, L. V.
+    - Mansilla, Lucio Victorio
+    birthdate: 1831
+    deathdate: 1913
+    gutenberg_agent_id: '47853'
+    url: http://www.gutenberg.org/2009/agents/47853
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Lucio_V._Mansilla
+    - https://en.wikipedia.org/wiki/Lucio_Victorio_Mansilla
+description: ''
+gutenberg_issued: '2020-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63600'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2801'
+- !lcsh 'Argentina -- Description and travel'
+- !lcsh 'Ranquel Indians'
+- GITenberg
+title: Una Excursión a los Indios Ranqueles - Tomo 1
+url: http://www.gutenberg.org/ebooks/63600
